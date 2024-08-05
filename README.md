@@ -14,13 +14,4 @@ git commit -m commit message ""
 
 git push 
 
-git branch feature1
-
-git checkout feature1
-
-git add filename
-
-git commit -m "commit message"
-
-git push --set-upstream origin feature1
 
